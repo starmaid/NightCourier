@@ -47,7 +47,11 @@ This is the development plan for the game. I am ignoring github issues for now b
 - Single, massive map with 10 named locations
 
     I want the user to actually have to fly between locations. This may be supplemented with a fast travel, but I feel like that would make the world much cooler.
-    
+
+- You can get out of your plane
+
+    I want the user to be able to leave their plane at any point. Skydiving, stealing parked enemy planes, evading, even just walking around. It would be cool.
+
 - More gamemodes
 
     - DEFEND: Destroy all attacking enemies.
